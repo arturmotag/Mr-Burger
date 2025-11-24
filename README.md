@@ -7,15 +7,15 @@ Foi requisitado o uso de linguagem php ou java, não sendo permitidas qualquer o
 
 # Estrutura do código
 
-O cardápio conta com uma página inicial, cuja programação está contida no arquivo index.php. Nesta página, consta uma mensagem de boas vindas e links de redirecionamento para as diferentes categorias do cardápio.
+O cardápio conta com uma página inicial, cuja programação está contida no arquivo [index](./index.php). Nesta página, consta uma mensagem de boas vindas e links de redirecionamento para as diferentes categorias do cardápio.
 
-Escolhida a categoria desejada, o usuário será redirecionado para a mesma. Nesta categoria, estarão listados os itens descritos no arquivo dados.php com a formatação dada no arquivo cardapio.php. 
+Escolhida a categoria desejada, o usuário será redirecionado para a mesma. Nesta categoria, estarão listados os itens descritos no arquivo dados.php com a formatação dada no arquivo [cardápio](./cardapio.php). 
 Cada item possui nome, foto, preço e descrição. Além de uma opção de adicionar ao carrinho.
 
 Ao adicionar um item ao carrinho, o usuário deve selecionar a quantidade desejada. Concluindo o procedimento, as informações do pedido serão adicionadas ao carrinho, que pode receber outros pedidos.
-Acessando o carrinho, o usuário encontrará todos os pedidos adicionados ao mesmo, como descrito no arquivo carrinho.php. Nesta página, encontram-se as informações de cada pedido e o valor total.
+Acessando o carrinho, o usuário encontrará todos os pedidos adicionados ao mesmo, como descrito no arquivo [carrinho](./carrinho.php). Nesta página, encontram-se as informações de cada pedido e o valor total.
 
-Para melhorar a experiencia do usuário, todas as páginas possuem cabeçalho com menu e um rodapé, contidos nos arquivos header.php e footer.php, respectivamente. 
+Para melhorar a experiencia do usuário, todas as páginas possuem cabeçalho com menu e um rodapé, contidos nos arquivos [header](./header.php) e [footer](./footer.php), respectivamente. 
 No header, o usuário pode navegar pelas páginas do site e no rodapé contem informações sobre o Mr.Burger.
 
 # Créditos
